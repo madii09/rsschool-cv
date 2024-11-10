@@ -23,7 +23,7 @@ Detail-oriented and enthusiastic Junior Frontend Developer with a passion for cr
 
 ## Code Examples
 - **Forms App Project**: Developed a dynamic, customizable form application with user roles, real-time collaboration, and export functionalities.
-- **Jira Integration for Ticket Creation**: Created a "Help" feature allowing users to create Jira support tickets directly from the application, capturing essential details like "Reported by" and "Priority". [GitHub Repository]([https://github.com/madii09/forms-app](https://forms-app-5ddb9.web.app/))
+- **Jira Integration for Ticket Creation**: Created a "Help" feature allowing users to create Jira support tickets directly from the application, capturing essential details like "Reported by" and "Priority". ([https://forms-app-5ddb9](https://forms-app-5ddb9.web.app/))
 
 ---
 

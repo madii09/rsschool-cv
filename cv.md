@@ -16,7 +16,7 @@ Detail-oriented and enthusiastic Junior Frontend Developer with a passion for cr
 ## Skills
 - **Programming Languages**: JavaScript, TypeScript
 - **Frameworks and Libraries**: React, Node.js, Firebase
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub.
 - **Tools**: VS Code, Firebase Emulator, MUI (Material-UI)
 
 ---

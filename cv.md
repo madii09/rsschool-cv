@@ -2,7 +2,7 @@
 
 ### Contact Information
 - **Email**: madina.m.9509@gmail.com
-- **Phone**: (90) 066-16-90
+- **Phone**: (90) 777-77-77
 - **LinkedIn**: ([https://linkedin.com/in/madina-mamatmuradova-b62725257](https://www.linkedin.com/in/madina-mamatmuradova-b62725257/))
 - **GitHub**: [github.com/madii09](https://github.com/madii09)
 

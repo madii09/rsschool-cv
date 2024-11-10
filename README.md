@@ -1,1 +1,1 @@
-# CV#1. Markdown & Git
+# rsschool-cv

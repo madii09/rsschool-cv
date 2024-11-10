@@ -35,8 +35,6 @@ Developed a web application for creating and managing dynamic forms with user ro
 - **Role**: Junior Developer
 - **Code**: [GitHub Repository](https://github.com/madii09/forms-app)
 
-
-
 ## Education
 - **Bachelor's Degree in Information Technologies** - Tashkent University of Informational Technologies, Graduated: 2020
 - **Courses**: 

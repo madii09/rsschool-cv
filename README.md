@@ -1,3 +1,3 @@
-   [# rsschool-cv](https://madii09.github.io/rsschool-cv/cv)
+   [# my-cv](https://inspiring-custard-0f1b7c.netlify.app/)
 
-   https://github.com/madii09/rsschool-cv
+

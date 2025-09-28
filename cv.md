@@ -1,6 +1,6 @@
 # Madina Mamatmuradova
 
-<img src="https://github.com/user-attachments/assets/e2355f96-c689-4109-a576-e8e1526c9765" alt="Profile photo" width="150"/>
+<img src="./assets/2025-09-28 12.58.09.jpg" alt="Profile photo" width="150"/>
 
 ---
 

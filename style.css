@@ -221,6 +221,11 @@ footer {
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
+footer .footer-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 footer a {
   color: #0d2b3a;

@@ -49,3 +49,38 @@ function validParentheses(parens: string): boolean {
   return balance === 0;
 }
 ```
+
+## Experience
+
+1. **Forms App**  
+   **Description:** A collaborative forms application with template creation, real-time updates, and an admin dashboard.  
+   **Stack:** React, TypeScript, Firebase, TailwindCSS.  
+   **Code:** [GitHub Repository](https://github.com/madii09/forms-app.git)  
+   **Live Demo:** [Live Demo](https://forms-app-ivory.vercel.app)
+
+2. **Weather Dashboard Widget**  
+   **Description:** A sleek glassmorphism-style weather widget that displays current and forecast weather using the OpenWeatherMap API.  
+   **Stack:** React + Vite, TailwindCSS, OpenWeatherMap API.  
+   **Code:** [GitHub Repository](https://github.com/madii09/weather-widget.git)
+
+3. **REST Client App**  
+   **Description:** A **Postman-like** web application built with Next.js for testing REST APIs.  
+   **Features:** Create and send HTTP requests, inspect responses, and manage request history with a modern UI.  
+   **Stack:** Next.js, TypeScript, TailwindCSS.  
+   **Live Demo:** [Live Demo](https://rest-client-app-tawny.vercel.app/en)
+
+---
+
+## 🎓 Education
+
+- **Tashkent University of Information Technologies**, B.Sc. in Engineering IT — 2020
+- **Rolling Scopes School**, React Course — 2025
+
+---
+
+## Languages
+
+- **English** — B2
+- **Uzbek** — Native
+- **Russian** — C1
+- **Turkish** — B2

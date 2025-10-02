@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Madina Mamatmuradova - CV</title>
+    <meta name="description" content="Frontend Developer CV" />
+    <link rel="icon" href="./assets/favicon.ico" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <nav class="header-nav">
+          <ul class="header-list">
+            <li class="header-item">
+              <a href="#contacts" class="header-link">Contacts</a>
+            </li>
+            <li class="header-item">
+              <a href="#about" class="header-link">About Me</a>
+            </li>
+            <li class="header-item">
+              <a href="#skills" class="header-link">Skills</a>
+            </li>
+            <li class="header-item">
+              <a href="#code" class="header-link">Code</a>
+            </li>
+            <li class="header-item">
+              <a href="#projects" class="header-link">Projects</a>
+            </li>
+            <li class="header-item">
+              <a href="#education" class="header-link">Education</a>
+            </li>
+            <li class="header-item">
+              <a href="#lang" class="header-link">Languages</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="main">
+      <div class="container main-container">
+        <section class="section section-main">
+          <img
+            src="./assets/my-photo.jpg"
+            alt="Madina Mamatmuradova"
+            class="main-photo"
+          />
+          <div class="main-title">
+            <h1 class="name">Madina Mamatmuradova</h1>
+          </div>
+        </section>
+
+        <section class="section section-contacts" id="contacts">
+          <hr />
+          <div class="title"><h2>Contacts</h2></div>
+          <nav class="contacts-nav">
+            <ul class="contacts-list">
+              <li class="contacts-item">
+                <i class="fa-solid fa-phone"></i>
+                <a href="tel:+998507729060">+998 50 772 9060</a>
+              </li>
+              <li class="contacts-item">
+                <i class="fa-solid fa-envelope"></i>
+                <a href="mailto:madina.m.9509@gmail.com"
+                  >madina.m.9509@gmail.com</a
+                >
+              </li>
+              <li class="contacts-item">
+                <i class="fa-brands fa-github"></i>
+                <a href="https://github.com/madii09" target="_blank">madii09</a>
+              </li>
+              <li class="contacts-item">
+                <i class="fa-brands fa-linkedin"></i>
+                <a
+                  href="https://linkedin.com/in/madina-mamatmuradova-b62725257"
+                  target="_blank"
+                  >LinkedIn</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </section>
+
+        <section class="section section-about" id="about">
+          <hr />
+          <div class="title"><h2>About Me</h2></div>
+          <div class="about-descr">
+            Detail-oriented and enthusiastic Junior Frontend Developer with a
+            passion for creating responsive and user-friendly web applications.
+            I've been working with HTML, CSS, and JavaScript, TypeScript with
+            hands-on experience in modern frameworks such as React and Nextjs.
+          </div>
+        </section>
+
+        <section class="section section-skills" id="skills">
+          <hr />
+          <div class="title"><h2>Skills</h2></div>
+          <nav class="skills-nav">
+            <ul class="skills-list">
+              <li class="skills-item">
+                <i class="devicon-javascript-plain"></i>JavaScript
+              </li>
+              <li class="skills-item">
+                <i class="devicon-typescript-plain"></i>TypeScript
+              </li>
+              <li class="skills-item">
+                <i class="devicon-react-original"></i>React
+              </li>
+              <li class="skills-item">
+                <i class="devicon-nodejs-plain"></i>Node.js
+              </li>
+              <li class="skills-item">
+                <i class="devicon-firebase-plain"></i>Firebase
+              </li>
+              <li class="skills-item"><i class="devicon-git-plain"></i>Git</li>
+              <li class="skills-item">
+                <i class="devicon-materialui-plain"></i>MUI
+              </li>
+              <li class="skills-item">
+                <i class="devicon-vscode-plain"></i>VS Code
+              </li>
+            </ul>
+          </nav>
+        </section>
+
+        <section class="section section-code" id="code">
+          <hr />
+          <div class="title"><h2>Code Example</h2></div>
+          <pre><code class="language-ts">
+                function validParentheses(parens: string): boolean {
+                  let balance = 0;
+                  for (const char of parens) {
+                    if (char === '(') balance++;
+                    if (char === ')') balance--;
+                    if (balance &lt; 0) return false;
+                  }
+                  return balance === 0;
+                }
+          </code></pre>
+        </section>
+
+        <section class="section section-projects" id="projects">
+          <hr />
+          <div class="title">
+            <h2>My Projects</h2>
+          </div>
+          <nav class="projects-nav">
+            <ul class="projects-list">
+              <li>
+                <div class="link">
+                  <a href="https://github.com/madii09/forms-app" target="_blank"
+                    >Forms App - GitHub Repository</a
+                  >
+                  |
+                  <a href="https://forms-app-5ddb9.web.app/" target="_blank"
+                    >Live Demo</a
+                  >
+                </div>
+                <div class="tech">
+                  Description: A collaborative forms application with template
+                  creation, real-time updates, and an admin dashboard.<br />
+                  Stack: React, TypeScript, Firebase, TailwindCSS
+                </div>
+              </li>
+              <li>
+                <div class="link">
+                  <a
+                    href="https://github.com/madii09/weather-widget"
+                    target="_blank"
+                    >Weather Dashboard Widget - GitHub Repository</a
+                  >
+                </div>
+                <div class="tech">
+                  Description: A sleek glassmorphism-style weather widget
+                  displaying current and forecast weather using the
+                  OpenWeatherMap API.<br />
+                  Stack: React + Vite, TailwindCSS, OpenWeatherMap API
+                </div>
+              </li>
+              <li>
+                <div class="link">
+                  <a
+                    href="https://github.com/Boys-Not-Found/rest-client-app"
+                    target="_blank"
+                    >REST Client - GitHub Repository</a
+                  >
+                  |
+                  <a
+                    href="https://rest-client-app-tawny.vercel.app/en"
+                    target="_blank"
+                    >Live Demo</a
+                  >
+                </div>
+                <div class="tech">
+                  Description: A Postman-like web application built with Next.js
+                  for testing REST APIs. Create and send HTTP requests, inspect
+                  responses, and manage request history with a modern UI.<br />
+                  Stack: Next.js, TypeScript, Firestore, TailwindCSS
+                </div>
+              </li>
+            </ul>
+          </nav>
+        </section>
+
+        <section class="section education-skills" id="education">
+          <hr />
+          <div class="title"><h2>Education</h2></div>
+          <nav class="education-nav">
+            <ul class="education-list">
+              <li class="education-item">
+                <h3>Tashkent University of IT — B.Sc.</h3>
+                <div class="education-descr">Graduated: 2020</div>
+              </li>
+              <li class="education-item">
+                <h3>Courses</h3>
+                <div class="education-descr">
+                  Frontend Development - IT City Academy<br />
+                  React Course 2025 - Rolling Scopes School
+                </div>
+              </li>
+            </ul>
+          </nav>
+        </section>
+
+        <section class="section section-lang" id="lang">
+          <hr />
+          <div class="title"><h2>Languages</h2></div>
+          <nav class="lang-nav">
+            <ul class="lang-list">
+              <li>Uzbek - Native</li>
+              <li>English - B2</li>
+              <li>Russian - C1</li>
+              <li>Turkish - B2</li>
+            </ul>
+          </nav>
+        </section>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-nav">
+        <div class="footer-item">&copy; 2025 Madina Mamatmuradova</div>
+        <div class="footer-item">
+          <a
+            class="rsschool footer-item"
+            href="https://rs.school/"
+            target="_blank"
+          >
+            <img
+              class="link-img"
+              src="./assets/rs-school-logo.svg"
+              alt="RS School"
+              width="50"
+            />
+          </a>
+          <a
+            class="copywrite"
+            href="https://github.com/madii09"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub</a
+          >
+          <a
+            class="rsschool footer-item"
+            href="https://rs.school/courses/short-track"
+            target="_blank"
+          >
+            <img
+              class="link-img"
+              src="./assets/rss-logo.svg"
+              alt="RS School"
+              width="50"
+            />
+          </a>
+        </div>
+      </div>
+    </footer>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    />
+  </body>
+</html>
